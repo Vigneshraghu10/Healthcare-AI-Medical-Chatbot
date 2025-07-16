@@ -1,0 +1,23 @@
+# API clients
+groq==0.4.0
+elevenlabs==0.2.24
+
+# Audio processing
+SpeechRecognition==3.10.0
+pydub==0.25.1
+PyAudio==0.2.13
+gtts==2.4.0
+
+# UI
+streamlit==1.26.0
+
+# Environment and utilities
+python-dotenv==1.0.0
+
+gradio
+gtts
+groq
+soundfile
+numpy
+requests
+python-dotenv
